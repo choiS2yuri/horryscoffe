@@ -52,7 +52,7 @@ a {
   margin-top: 14px;
 }
 .header-banner .center {
-  margin: 0 auto 0;
+  margin: 20px auto 0;
   text-align: center;
 }
 .header-banner .right {
@@ -83,7 +83,7 @@ a {
   color: #6f6f6f;
   opacity: 0;
 }
-.header .header-nav:hover ul > li p{opacity: 1; color: #fff;}
+.header .header-nav:hover ul > li p{opacity: 1; color: #fff; transition: 0.5s;}
 /* .header .header-nav .header-suv > ul {
   flex-direction: column;
 } */
